@@ -1,0 +1,1 @@
+# Dependenciens(qiskit, numoy, matplotlib, etc.)
