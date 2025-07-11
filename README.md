@@ -2,7 +2,7 @@
 # 🧠 QuantumFlux: Quantum-Enhanced Solver for 1D Burgers' Equation
 
 > WISER 2025 Quantum Challenge Project  
-> Participant: Janardhan kurapothula pawan kumar ( Enrollment ID: gst-kwaAmEE0Ns1bjPQ)
+> Participant: Janardhan kurapothula pawan kumar ( Enrollment ID: gst-kwaAmEE0Ns1bjPQ), Monika Sharma ( Enrollnment ID: gst-o2yYgbFM4RS5hwq) 
 > 
 > Track: Quantum PDE Solvers for CFD  
 > Team: QuantumFlux
